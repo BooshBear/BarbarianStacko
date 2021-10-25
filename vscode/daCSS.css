@@ -43,6 +43,9 @@ main {
     left: 50%;
     transform: translate(-50%);
 }
+main h1 {
+    text-align: center;
+}
 footer p {
     float: right;
 }
